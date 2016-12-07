@@ -1,6 +1,6 @@
 var https = require('http');
 //TODO 
-var uri = ""; // the external IP including port number - remember you will need to port forward to your directv receiver's port 8080
+var uri = "174.67.209.209:80"; // the external IP including port number - remember you will need to port forward to your directv receiver's port 8080
 var mac_addr = ""; //your client mac address without hyphens and ALL CAPS
 
 //EVERYTHING BELOW THIS LINE NEEDS NO CHANGES TO WORK
